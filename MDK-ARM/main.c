@@ -1,5 +1,10 @@
-#include "common.h"
+/*
+ * IAP: in application program tools
+ * Usaging X/Y/Zmodem protocol
+ */
+
 #include "iap.h"
+#include "common.h"
 
 int main(void)
 {
